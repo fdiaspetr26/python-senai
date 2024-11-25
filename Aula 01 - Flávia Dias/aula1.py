@@ -1,0 +1,5 @@
+print('Olá, mundo')
+print('Meu nome é Flávia')
+print('Minha mãe se chama Carolina')
+print('Eu gosto de ler')
+print('Minha comida favorita é strogonoff')
